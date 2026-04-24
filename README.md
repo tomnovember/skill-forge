@@ -30,12 +30,6 @@ Skill Forge是一组方法论文件，定义了从需求分析、知识库构建
 3. 将其余`.md`文件作为Knowledge Files上传
 4. 开始对话，告诉它你要训练哪个领域的Skill
 
-## 实际案例
-
-用Skill Forge从零训练了一个股权税务架构分析Skill，耗时6小时，覆盖13种交易类型、35条法条、9个争议口径。
-
-详见：[equity-tax-skill](链接)
-
 ## 许可
 
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。允许学习、修改、分享，禁止商业使用。
@@ -43,3 +37,4 @@ Skill Forge是一组方法论文件，定义了从需求分析、知识库构建
 ## 作者
 
 唐梦 (TANG Meng)
+tomnovember@gmail.com
